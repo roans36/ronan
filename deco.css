@@ -1,0 +1,22 @@
+
+h1
+{
+  
+  font-family: sans-serif;
+  font-weight: bold;
+  color: black;
+}
+.container{
+
+  align-items: center;
+  column-gap: 5px;
+  font-size: 20px;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+.image{
+
+  display: ;
+  max-width: 20% ;
+  max-height: 20%;
+  object-position: left top;
+}
