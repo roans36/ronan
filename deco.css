@@ -1,22 +1,95 @@
+/* 
+*
+{
+  background-color: rgb(180, 197, 202);
+} */
+*{
+  padding: 0px;
+  margin: 0px;
+}
+li{
+  display: inline-flex;
+   width: 150px;
+  padding: 10px;
+  margin: 20px;
+  
+}
+  li:hover{
+ background-color: rgb(242, 242, 245);
+ border-radius: 10px;
+ width: 150px;
 
+}
+li a{
+  text-decoration: none;
+  text-decoration-style: none;
+  text-align: start;
+  font-size: 30px;
+}
+.menu-bar ul{
+  background: rgb(76, 162, 170);
+  text-align: ;
+  
+  letter-spacing: 2px;
+}
 h1
 {
-  
-  font-family: sans-serif;
+  font-size: 60px;
+  font-family: 'Courier New', Courier, monospace;
   font-weight: bold;
+  color: darkblue;
+  }
+.image{
+ width: 20% ;
+  height: 50%;
+  object-position: left top;
+}
+.neutron{
+  font-size: 26px;
+  font-family: Arial, Helvetica, sans-serif;
+  padding:16px 30px;
+  word-spacing: 5px;
+  letter-spacing: 3px;
+}
+.Learn a{
+  text-decoration-style: none;
+  text-decoration: none;
+  display: inline-flex;
+  width: 150px;
+  padding: 10px;
+  margin: 15px;
+  font-size: 18px;
+  color: rgb(4, 100, 138);
+  letter-spacing: 3px;
+}
+.Learn a:hover{
   color: black;
 }
-.container{
-
-  align-items: center;
-  column-gap: 5px;
-  font-size: 20px;
-  grid-template-columns: 1fr 1fr 1fr;
+.vid{
+  font-size: 14px;
 }
-.image{
-
-  display: ;
-  max-width: 20% ;
-  max-height: 20%;
-  object-position: left top;
+.box{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 28px;
+  color: rgb(71, 59, 168);
+  font-style: italic;
+  offset: 0%;
+  position: top;
+}
+.blk{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 28px;
+  color: rgb(71, 59, 168);
+  font-style: italic;
+  offset: 0%;
+  position: top;
+}
+  .no{
+  offset: 0%;
+  }
+.imgs{
+  font-size: 14px;
+}
+.con12{
+  background: rgb(167, 199, 199);
 }
